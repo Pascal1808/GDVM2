@@ -24,4 +24,4 @@ onderaan: de shop om je meteor te upgraden
 # Wekelijkse voortgang en reflectie
 
 ## week 1
-
+een idee verzonnen
