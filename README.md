@@ -33,4 +33,4 @@ een idee verzonnen
 
 ![gif](array_list.gif)
 
-[script](C:\Users\pasca\OneDrive\MA\GDV\GDVM2\random_item.cs)
+[script](random_item.cs)
