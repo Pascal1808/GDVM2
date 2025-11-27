@@ -1,5 +1,4 @@
 # GDVM2
-# 
 
 
 # space peggle
@@ -25,3 +24,13 @@ onderaan: de shop om je meteor te upgraden
 
 ## week 1
 een idee verzonnen
+
+
+
+# list array
+
+## een lijst die de woorden die je in de inspector hebt gezet laten voorlezen 
+
+![gif](array_list)
+
+[script](C:\Users\pasca\OneDrive\MA\GDV\GDVM2\random_item.cs)
