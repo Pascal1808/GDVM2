@@ -31,6 +31,6 @@ een idee verzonnen
 
 ## een lijst die de woorden die je in de inspector hebt gezet laten voorlezen 
 
-![gif](array_list)
+![gif](C:\Users\pasca\OneDrive\MA\GDV\GDVM2\array_list.gif)
 
 [script](C:\Users\pasca\OneDrive\MA\GDV\GDVM2\random_item.cs)
