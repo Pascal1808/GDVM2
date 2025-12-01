@@ -34,3 +34,5 @@ een idee verzonnen
 ![gif](array_list.gif)
 
 [script](random_item.cs)
+
+![gif](Target_collision.gif)
