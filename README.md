@@ -35,12 +35,8 @@ een idee verzinnen
 
 [script](random_item.cs)
 
-# 2.1 forces and collision
+# 2.1 forces and coliision
 
 ![gif](Target_collision.gif)
 
-# 2.2 peggle_mikken
-
-![gif](peggle_mikken.gif)
-
-# 3.1 score and triggers
+# 2.2 peggle mikken
