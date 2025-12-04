@@ -23,7 +23,7 @@ onderaan: de shop om je meteor te upgraden
 # Wekelijkse voortgang en reflectie
 
 ## week 1
-een idee verzonnen
+een idee verzinnen
 
 
 
@@ -33,4 +33,14 @@ een idee verzonnen
 
 ![gif](array_list.gif)
 
-[script](C:\Users\pasca\OneDrive\MA\GDV\GDVM2\random_item.cs)
+[script](random_item.cs)
+
+# 2.1 forces and collision
+
+![gif](Target_collision.gif)
+
+# 2.2 peggle_mikken
+
+![gif](peggle_mikken.gif)
+
+# 3.1 score and triggers
