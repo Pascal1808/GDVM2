@@ -40,3 +40,7 @@ een idee verzinnen
 ![gif](Target_collision.gif)
 
 # 2.2 peggle mikken
+
+![gif](peggle_mikken.gif)
+
+# 3.1 scores an trigers
