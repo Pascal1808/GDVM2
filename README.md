@@ -44,3 +44,9 @@ een idee verzinnen
 ![gif](peggle_mikken.gif)
 
 # 3.1 scores an trigers
+
+![gif](triggers.gif)
+
+# 3.2 score combo & multiplier
+
+![gif](skill-github.gif)
