@@ -51,6 +51,6 @@ een idee verzinnen
 
 ![gif](skill-github.gif)
 
-# 4.1 UI
+# 4.1 & 4.2 UI
 
 ![gif](ui.gif)
