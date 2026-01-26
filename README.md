@@ -50,3 +50,7 @@ een idee verzinnen
 # 3.2 score combo & multiplier
 
 ![gif](skill-github.gif)
+
+# 4.1 UI
+
+![gif](ui.gif)
