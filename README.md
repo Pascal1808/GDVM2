@@ -35,22 +35,34 @@ een idee verzinnen
 
 [script](random_item.cs)
 
-# 2.1 forces and coliision
+# 2.1 forces and collision
 
 ![gif](Target_collision.gif)
+
+bumperhit: [script](scripts\BumperHit.cs)
 
 # 2.2 peggle mikken
 
 ![gif](peggle_mikken.gif)
 
+aim: [script](scripts\aim.cs)
+
 # 3.1 scores an trigers
 
 ![gif](triggers.gif)
+
+ [script](scripts\ScoreManager.cs)
 
 # 3.2 score combo & multiplier
 
 ![gif](skill-github.gif)
 
+[script](scripts\ComboSystem.cs)
+
 # 4.1 & 4.2 UI
 
 ![gif](ui.gif)
+
+[script](scripts\uiScoreBoard.cs)
+
+[script]()
