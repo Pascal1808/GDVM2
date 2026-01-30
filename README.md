@@ -39,19 +39,19 @@ een idee verzinnen
 
 ![gif](Target_collision.gif)
 
-bumperhit: [script](scripts\BumperHit.cs)
+[script](scripts\BumperHit.cs)
 
 # 2.2 peggle mikken
 
 ![gif](peggle_mikken.gif)
 
-aim: [script](scripts\aim.cs)
+[script](scripts\aim.cs)
 
 # 3.1 scores an trigers
 
 ![gif](triggers.gif)
 
- [script](scripts\ScoreManager.cs)
+[script](scripts\ScoreManager.cs)
 
 # 3.2 score combo & multiplier
 
